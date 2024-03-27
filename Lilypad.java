@@ -2,7 +2,6 @@
  * Niharika Agrawal
  * CSC 171
  * Lilypad Assignment
- * nagrawa5@u.rochester.edu
  * Last Edited February 23, 2024
  * 
  * start the program by just entering the coordinates

@@ -2,7 +2,6 @@
  * Niharika Agrawal
  * CSC 171
  * Design HW Assignment - Person Class
- * nagrawa5@u.rochester.edu
  * Last Edited March 4, 2024
  */
 

@@ -1,7 +1,6 @@
 /*
  * Niharika Agrawal
  * CSC 171
- * nagrawa5@u.rochester.edu
  * HW 2: CalculatorHW
  */
 
